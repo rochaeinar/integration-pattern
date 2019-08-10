@@ -8,6 +8,7 @@ What approach would you suggest them to use for efficiently sharing their data w
 
 ## Solution
 
+**Data Sync Pattern** is useful pattern for data broadcasting that can help integration accross systems.
 ![C4 Model](https://github.com/rochaeinar/integration-pattern/blob/master/diagram.png)
 
 ## Prerequisites
