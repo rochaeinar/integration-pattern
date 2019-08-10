@@ -1,0 +1,8 @@
+sudo apt install curl
+curl https://raw.githubusercontent.com/golang/dep/master/install.sh | sh
+sudo apt install go-dep
+dep init
+dep ensure
+go get github.com/streadway/amqp
+go run sender.go
+
